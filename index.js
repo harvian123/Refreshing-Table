@@ -29,5 +29,4 @@ app.get('/data', (req, res) => {
 
 app.listen(3000, ()=>{
     console.log("App is Running at Port 3000")
->>>>>>> 5fdf0ab (Bahan)
 });
